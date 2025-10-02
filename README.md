@@ -34,13 +34,6 @@ End_project/
 
 ---
 
-## 🔗 Live Demo
-
-[Play Flappy Bat here!](#)
-*(Replace `#` with your GitHub Pages link if you deploy it)*
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License – feel free to learn, remix, and share!
